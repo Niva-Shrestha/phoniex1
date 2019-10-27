@@ -6,7 +6,13 @@ This Site is inspired by my real story. I ahve presented my Idea how we should b
 
 I have used free source Royalty free images for this site. which were available in the following site: 
 
-https://pngtree.com/
-https://www.flaticon.com/
-https://www.Change.org/ 
-https://web.mcc.wa.edu.au/
+1) https://pngtree.com/
+
+2) https://www.flaticon.com/
+
+3) https://www.Change.org/
+
+4) https://web.mcc.wa.edu.au/
+
+
+I would like to thank my class professor Mr. Peter Urbanec who has been tirelessly helping us to understand the important aspects of web publishing and Deployemnet. With out his inspiration it wouldn't have been possible. 
